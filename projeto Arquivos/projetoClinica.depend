@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544566939 source:c:\users\gil\desktop\trabalhos ads\progamacão estruturada\projeto arquivos\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
